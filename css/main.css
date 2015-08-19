@@ -15,10 +15,31 @@ body {
 	padding:10px;
 }
 
+.description p span {
+	color:#333;
+	font-weight:bold;
+	font-size:14px;
+}
+
 .full {
   background: url(../img/blueprint.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+.navbar-nav > li > a {
+	padding-top:0;
+	padding-bottom:0;
+}
+
+.nav > li > a {
+	padding: 10px 5px;
+}
+
+a > img {
+	margin-top:8px;
+	width:32px;
+	height:32px;
 }

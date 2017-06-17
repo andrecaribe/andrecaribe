@@ -1,4 +1,4 @@
 André Caribé
 ============
 
-Website develop in few minutes with [Mobirise](http://mobirise.net). :)
+Website developed in a few minutes with [Mobirise](http://mobirise.net). :)

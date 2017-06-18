@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "404.html",
+    "currentPage": "index.html",
     "name": "André Caribé",
     "theme": {
       "name": "mobirise3",
@@ -159,7 +159,7 @@
             "showButtons": true
           },
           "title": "André Caribé",
-          "text": "Meu propósito é ajudar pessoas e organizações a criarem a melhores soluções,<br>com agilidade, foco, comprometimento, respeito e transparência,<br>para conquistar sustentabilidade e crescimento.<br>",
+          "text": "Meu propósito é ajudar pessoas e organizações a criarem as melhores soluções,<br>com agilidade, foco, comprometimento, respeito e transparência,<br>para conquistar sustentabilidade e crescimento.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header3-m\" data-toolbar=\"-mbrBtnMove\">Mais</a>"
         },
         {
